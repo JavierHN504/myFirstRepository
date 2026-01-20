@@ -1,2 +1,2 @@
 # myFirstRepository
-mi primer repositorio jaja
+mi primer repositorio Rama
